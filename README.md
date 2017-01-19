@@ -80,5 +80,5 @@ Now you have to choose in which list you want to store all of your subscribers i
    </form>
 ```
 
-<h2>For more functions read Documenatation MailChimp API:</h2> 
+<h2>For more functions read Documentation MailChimp API:</h2> 
 <a href="http://developer.mailchimp.com/documentation/mailchimp/">http://developer.mailchimp.com/documentation/mailchimp/</a> 
